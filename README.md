@@ -245,3 +245,5 @@ rag-app/
                   key rotation, query flow and security
   requirements.txt  .env.example  run.sh
 ```
+## Try the deployed version
+https://rag-flow-breakdown-1rkl.vercel.app/
